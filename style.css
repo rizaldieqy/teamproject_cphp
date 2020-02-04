@@ -1,0 +1,43 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+.jumbotron {
+  background-color: #ff6700;
+}
+
+.container img{
+  padding-bottom: 30px;
+}
+
+.jumbotron2 {
+  padding-top: 87px;
+  height: 443px;
+  text-align: center;
+  color:  #fff;
+      background: url('img/about-overview-img03.jpg') center no-repeat;
+      background-size: cover;
+  }
+
+#session02 p::after {
+  content: '&nbsp;';
+  display: block;
+  width: 54px;
+  height: 2px;
+  line-height: 2px;
+  text-indent: -9999px;
+  margin: 29px auto 40px;
+  background: #fff;
+  }
+
+.jumbotron3{
+  padding-top: 125px;
+  padding-bottom: 125px;
+}
+
+.card-group{
+  background-color: #f5f5f5;
+  padding-bottom: 120px;
+}
