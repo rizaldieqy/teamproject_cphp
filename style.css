@@ -1,0 +1,53 @@
+.wrapper {
+    position: relative;
+    background-image: url(img/samvip.jpg);
+    opacity: rgba(90, 82, 82, 0.9);
+}
+
+#nav1 {
+    background-color: #17a3df;
+}
+
+#bahagia { 
+    background-image: url(img/stars.png);
+    background-repeat: none;
+    background-color: rgba(0, 0, 0, 0.9);
+    background-attachment: fixed;
+    color: #d3d3d3;
+}
+
+#card1 {
+    background-color: white;
+}
+
+#card2 {
+    background-color: white;
+}
+
+#card3 {
+    background-color: white;
+}
+
+#andro {
+    color: #86e543;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+#ios {
+    color: #bf00ff;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+#user {
+    color: #ffb6c1;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#foot1 {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#foot {
+    background-color: #e3f2fd;
+}
