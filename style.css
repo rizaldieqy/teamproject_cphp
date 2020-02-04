@@ -48,9 +48,45 @@
     background-color: rgba(0, 0, 0, 0.7);
 }
 
+#top1 {
+    margin-top: 50px;
+}
+
+#gbr {
+    width: 100%;
+    height: 450px;
+}
+
+#gbr1 {
+    width: 150px;
+    height: 200px;
+}
+
+#gbr2 {
+    width: 100%;
+    height: 300px;
+}
+
+#konten {
+    width: 253px;
+    height: 300px;
+}
+
+#konten1 {
+    width: 348px;
+    height: 300px;
+}
+
+iframe {
+    width: 100%;
+    height: 435px;
+
+}
+
 #foot {
     background-color: #e3f2fd;
 }
+
 
 body{
   margin: 0;
